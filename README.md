@@ -24,7 +24,7 @@ This project implements a machine learning solution to classify water as **Potab
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone https://github.com/kpvishnu10987/Water-Potability-Prediction.git
     cd water-potability-prediction
     ```
 
@@ -37,7 +37,7 @@ This project implements a machine learning solution to classify water as **Potab
 
 ## 🚀 How to Run
 
-1.  **Jupyter Notebook:** Open and execute all cells in the `Water_Potability_Prediction_(1).ipynb` file to reproduce the entire analysis, training, and saving process.
+1.  **Jupyter Notebook:** Open and execute all cells in the `Water_Potability_Prediction_ml.ipynb` file to reproduce the entire analysis, training, and saving process.
 
 2.  **Deployment/Prediction (Using Saved Assets):** To use the model for real-time predictions, run a separate script that performs these steps:
     * Load the model, scaler, and imputer using `joblib.load()`.
